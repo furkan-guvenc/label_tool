@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabelTool", "LabelTool\LabelTool.csproj", "{058B99D5-D742-45DB-A419-0112FEE8C8C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{058B99D5-D742-45DB-A419-0112FEE8C8C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{058B99D5-D742-45DB-A419-0112FEE8C8C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{058B99D5-D742-45DB-A419-0112FEE8C8C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{058B99D5-D742-45DB-A419-0112FEE8C8C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84716AB3-522D-4007-973B-1AAFC71F1895}
+	EndGlobalSection
+EndGlobal
